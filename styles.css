@@ -18,6 +18,7 @@ html,body {
   color: #222;
   line-height: 1.5;
   -webkit-font-smoothing:antialiased;
+  margin: 16px;
 }
 
 /* Layout container so content isn't edge-to-edge */
